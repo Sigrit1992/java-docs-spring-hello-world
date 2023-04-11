@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Homew0rk'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B6D5CF798AA34BCA92F076498FE1C0BE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_45FF6A18BA9A4861BB77541B36B6840C }}
           package: '*.jar'
